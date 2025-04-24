@@ -1,6 +1,13 @@
 # 💫 About Me:
-- Name: Nick Nguyen<br>- Age: 19<br>- Interested in:<br>  + Natural Language Processing, LLM<br>  + Machine Learning/ Deep Learning<br>  + Web app/Mobile app<br>  + Embedded Software Programming <br>
-- My Digital Portfolio: https://nick-folium.vercel.app
+- Name: Nick Nguyen<br>
+- Age: 21<br>
+- Interested in:<br> 
+Embedded Avionics Systems <br>
+Software Application<br>
+- Past interests: <br>
+Machine Learning and Deep Learning <br>
+Natural Language Processing <br>
+- My Digital Portfolio (old): https://nick-folium.vercel.app
 
 
 # 💻 Tech Stack:
