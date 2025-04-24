@@ -2,11 +2,11 @@
 - Name: Nick Nguyen<br>
 - Age: 21<br>
 - Interested in:<br> 
-Embedded Avionics Systems <br>
-Software Application<br>
+  - Embedded Avionics Systems <br>
+  - Software Application<br>
 - Past interests: <br>
-Machine Learning and Deep Learning <br>
-Natural Language Processing <br>
+  - Machine Learning and Deep Learning <br>
+  - Natural Language Processing <br>
 - My Digital Portfolio (old): https://nick-folium.vercel.app
 
 
